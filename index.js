@@ -28,6 +28,7 @@ var bestCustomer;
     
 }
 
+// Overwrite bestCustomer variable 
 function overwriteBestCustomer(){
 
     bestCustomer = 'maybe bob'
