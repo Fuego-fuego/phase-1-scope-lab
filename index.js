@@ -33,6 +33,9 @@ function overwriteBestCustomer(){
 
     bestCustomer = 'maybe bob'
 }
+
+
+// Attempt to overwrite a constant in scope 
 const leastFavoriteCustomer = `initialValue`;
 
 
